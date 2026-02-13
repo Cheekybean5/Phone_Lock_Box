@@ -29,16 +29,16 @@ We began by drafting ideas and ideating necessary features. Once we determined t
 
 Our circuit includes an Arduino Uno Redboard, an LCD display, an LED, 2 button switches, a potentiometer, and a servo motor. All the components are soldered onto a perfboard and connected with wires. The Redboard acts as the brains to connect to the various sensors and input elements. The button switches are used as an input for functions such as setting a Focus Time and beginning the focus session. Our LCD Display provides a classic user interface for the student to view the Focus Time remaining. It also sends occasional motivational messages, to keep students engaged in their work and on-task. The LED acts as a simple indicator light to display the current mode; white for idle, green for starting a time, yellow throughout the duration of the time, and red once the time has elapsed. The potentiometer is used to control the contrast of the LCD. Finally, the servo operates as the locking mechanism for the box, working alongside a specially designed cavity intended to minimize the strain on the fragile gears within it. Together, these components function wirelessly using a battery pack.
 
-! [Schematic](Image source)
+! [Schematic](assets/schematic.jpg)
 
-! [Circuit](image source)
+! [Circuit](assets/circuitry1.jpg)
 
 ###### Schematic and Circuit
 
 Aside from the circuit, the case was also a big design aspect for this project. Integrating the latch, actual phone storage system, as well as keeping enough room for the circuit was quite a challenge. In the end, there ended up being about two distinct compartments in the box. The main phone cavity, and the part for the circuits. There are many different holes, accounting for the buttons, screen, LED, and potentiometer. Additionally, the servo mount was quite a challenge to get right, as the spacing had to be close enough to actually close, but not too close to hit the latch as the lid closes. Overall, although the case wasn’t quite polished, it works as well as we intended, stores all the components, and looks clean and refined.
 
-! [CAD render 1](image source)
-! [CAD render 2](image source)
+! [CAD render 1](assets/LockBox Render 1.png)
+! [CAD render 2](assets/LockBox Render 2.png)
 
 ###### Case Designed and Rendered Using Solidworks
 
@@ -64,7 +64,7 @@ This device also required multiple different elements of engineering. Since it w
 
 We are proud of the final product we delivered in the time we had to work on it. Overall, this project was a success as we saw the idea we had in our head be turned into a physical and functional model. It was exciting to see new developments throughout the design process, and we had a fun time working alongside each other to create our device.
 
-! [Assembled Box](image source)
+! [Assembled Box](assets/box assembly2.jpeg)
 
 ###### Prototype of the Box Fitted with Electrical Components
 
