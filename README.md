@@ -37,8 +37,8 @@ Our circuit includes an Arduino Uno Redboard, an LCD display, an LED, 2 button s
 
 Aside from the circuit, the case was also a big design aspect for this project. Integrating the latch, actual phone storage system, as well as keeping enough room for the circuit was quite a challenge. In the end, there ended up being about two distinct compartments in the box. The main phone cavity, and the part for the circuits. There are many different holes, accounting for the buttons, screen, LED, and potentiometer. Additionally, the servo mount was quite a challenge to get right, as the spacing had to be close enough to actually close, but not too close to hit the latch as the lid closes. Overall, although the case wasn’t quite polished, it works as well as we intended, stores all the components, and looks clean and refined.
 
-! [CAD render 1](assets/LockBox Render 1.png)
-! [CAD render 2](assets/LockBox Render 2.png)
+! [CAD render 1](assets/LockBox_Render1.png)
+! [CAD render 2](assets/LockBox_Render2.png)
 
 ###### Case Designed and Rendered Using Solidworks
 
@@ -64,7 +64,7 @@ This device also required multiple different elements of engineering. Since it w
 
 We are proud of the final product we delivered in the time we had to work on it. Overall, this project was a success as we saw the idea we had in our head be turned into a physical and functional model. It was exciting to see new developments throughout the design process, and we had a fun time working alongside each other to create our device.
 
-! [Assembled Box](assets/box assembly2.jpeg)
+! [Assembled Box](assets/box_assembly2.jpeg)
 
 ###### Prototype of the Box Fitted with Electrical Components
 
