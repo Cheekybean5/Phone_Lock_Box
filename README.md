@@ -6,7 +6,7 @@
   
   
 
-![Cover Photo](/assets/filename)
+![Cover Photo](/assets/builtbox.jpg)
   
   
 
